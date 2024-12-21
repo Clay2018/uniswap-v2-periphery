@@ -1,2 +1,16 @@
+__pycache__
+broadcast
+.env
+.history
+.hypothesis/
 build/
-node_modules/
+reports/
+.idea
+artifacts
+cache
+node_modules
+venv/
+.openzeppelin
+.DS_Store
+out/
+lib/
